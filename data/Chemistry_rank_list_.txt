@@ -1,0 +1,12 @@
+1        | Isha         | Subject: Chemistry    |  Score: 93       | Grade: AA      
+2        | Sneha        | Subject: Chemistry    |  Score: 91       | Grade: AA      
+3        | Rahul        | Subject: Chemistry    |  Score: 90       | Grade: AA      
+4        | Neha         | Subject: Chemistry    |  Score: 88       | Grade: AB      
+5        | Anjali       | Subject: Chemistry    |  Score: 85       | Grade: AB      
+6        | Priya        | Subject: Chemistry    |  Score: 80       | Grade: AB      
+7        | Rohit        | Subject: Chemistry    |  Score: 60       | Grade: BC      
+8        | Karan        | Subject: Chemistry    |  Score: 50       | Grade: CC      
+9        | Vikram       | Subject: Chemistry    |  Score: 40       | Grade: CD      
+10       | Amit         | Subject: Chemistry    |  Score: 30       | Grade: DD      
+-----------------------------------
+CLASS AVERAGE: 70.700

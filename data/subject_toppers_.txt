@@ -1,0 +1,5 @@
+Subject: Maths        | Topper: Sneha        | Score: 95
+Subject: Physics      | Topper: Isha         | Score: 94
+Subject: Chemistry    | Topper: Isha         | Score: 93
+Subject: English      | Topper: Sneha        | Score: 93
+Subject: Computer     | Topper: Sneha        | Score: 96

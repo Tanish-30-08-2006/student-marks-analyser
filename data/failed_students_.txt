@@ -1,0 +1,3 @@
+Karan       | Status: FAIL     | Reason of Failure:   Low Attendance
+Vikram      | Status: FAIL     | Reason of Failure:   Low Average and Low Attendance
+Rohit       | Status: FAIL     | Reason of Failure:   Low Attendance

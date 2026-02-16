@@ -1,0 +1,5 @@
+Subject: Maths        | Passed: 9   | Fail: 1   | Pass Rate:  90.00%
+Subject: Physics      | Passed: 8   | Fail: 2   | Pass Rate:  80.00%
+Subject: Chemistry    | Passed: 9   | Fail: 1   | Pass Rate:  90.00%
+Subject: English      | Passed: 9   | Fail: 1   | Pass Rate:  90.00%
+Subject: Computer     | Passed: 10  | Fail: 0   | Pass Rate: 100.00%

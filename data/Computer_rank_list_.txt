@@ -1,0 +1,12 @@
+1        | Sneha        | Subject: Computer     |  Score: 96       | Grade: AA      
+2        | Rahul        | Subject: Computer     |  Score: 95       | Grade: AA      
+3        | Isha         | Subject: Computer     |  Score: 92       | Grade: AA      
+4        | Neha         | Subject: Computer     |  Score: 92       | Grade: AA      
+5        | Priya        | Subject: Computer     |  Score: 88       | Grade: AB      
+6        | Anjali       | Subject: Computer     |  Score: 84       | Grade: AB      
+7        | Rohit        | Subject: Computer     |  Score: 70       | Grade: BB      
+8        | Amit         | Subject: Computer     |  Score: 70       | Grade: BB      
+9        | Vikram       | Subject: Computer     |  Score: 50       | Grade: CC      
+10       | Karan        | Subject: Computer     |  Score: 45       | Grade: CD      
+-----------------------------------
+CLASS AVERAGE: 78.200

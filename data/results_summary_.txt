@@ -1,0 +1,10 @@
+Rahul       | Avg: 86.80    | Grade: AB       | Attendance: 92      % | Status: PASS
+Amit        | Avg: 52.00    | Grade: CC       | Attendance: 75      % | Status: PASS
+Sneha       | Avg: 93.40    | Grade: AA       | Attendance: 98      % | Status: PASS
+Priya       | Avg: 80.80    | Grade: AB       | Attendance: 85      % | Status: PASS
+Karan       | Avg: 46.00    | Grade: CD       | Attendance: 65      % | Status: FAIL
+Neha        | Avg: 82.00    | Grade: AB       | Attendance: 90      % | Status: PASS
+Vikram      | Avg: 36.00    | Grade: DD       | Attendance: 55      % | Status: FAIL
+Anjali      | Avg: 82.00    | Grade: AB       | Attendance: 88      % | Status: PASS
+Rohit       | Avg: 65.00    | Grade: BC       | Attendance: 72      % | Status: FAIL
+Isha        | Avg: 92.00    | Grade: AA       | Attendance: 95      % | Status: PASS

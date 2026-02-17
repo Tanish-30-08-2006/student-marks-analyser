@@ -1,5 +1,1 @@
-Maths
-Physics
-Chemistry
-English
-Computer
+Mathematics Physics Chemistry Biology Computing History Geography English Economics Electronics

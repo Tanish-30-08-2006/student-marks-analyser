@@ -1,5 +1,10 @@
-Subject: Maths        | Passed: 9   | Fail: 1   | Pass Rate:  90.00%
-Subject: Physics      | Passed: 8   | Fail: 2   | Pass Rate:  80.00%
-Subject: Chemistry    | Passed: 9   | Fail: 1   | Pass Rate:  90.00%
-Subject: English      | Passed: 9   | Fail: 1   | Pass Rate:  90.00%
-Subject: Computer     | Passed: 10  | Fail: 0   | Pass Rate: 100.00%
+Subject: Mathematics                    | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Physics                        | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Chemistry                      | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Biology                        | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Computing                      | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: History                        | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Geography                      | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: English                        | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Economics                      | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Electronics                    | Passed: 17    | Fail: 3     | Pass Rate:  85.00%

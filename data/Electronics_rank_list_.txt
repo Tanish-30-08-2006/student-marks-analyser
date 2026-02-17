@@ -1,0 +1,22 @@
+1        | Kiara_Shah_310                 | Subject: Electronics                             |  Score: 92              | Grade: AA             
+2        | Varun_Verma_319                | Subject: Electronics                             |  Score: 91              | Grade: AA             
+3        | Vihaan_Roy_313                 | Subject: Electronics                             |  Score: 91              | Grade: AA             
+4        | Zain_Siddiqui_302              | Subject: Electronics                             |  Score: 90              | Grade: AA             
+5        | Riya_Deshmukh_316              | Subject: Electronics                             |  Score: 90              | Grade: AA             
+6        | Kabir_Mehta_305                | Subject: Electronics                             |  Score: 88              | Grade: AB             
+7        | Anaya_Reddy_306                | Subject: Electronics                             |  Score: 84              | Grade: AB             
+8        | Sara_Khan_320                  | Subject: Electronics                             |  Score: 84              | Grade: AB             
+9        | Ishani_Gupta_318               | Subject: Electronics                             |  Score: 84              | Grade: AB             
+10       | Aryan_Kulkarni_301             | Subject: Electronics                             |  Score: 82              | Grade: AB             
+11       | Isha_Malhotra_304              | Subject: Electronics                             |  Score: 76              | Grade: BB             
+12       | Mehak_Gill_312                 | Subject: Electronics                             |  Score: 76              | Grade: BB             
+13       | Sanya_Malik_308                | Subject: Electronics                             |  Score: 74              | Grade: BB             
+14       | Priya_Nair_314                 | Subject: Electronics                             |  Score: 66              | Grade: BC             
+15       | Rishi_Iyer_307                 | Subject: Electronics                             |  Score: 56              | Grade: CC             
+16       | Dev_Chopra_311                 | Subject: Electronics                             |  Score: 44              | Grade: CD             
+17       | Samrat_Singh_317               | Subject: Electronics                             |  Score: 44              | Grade: CD             
+18       | Arnav_Bose_309                 | Subject: Electronics                             |  Score: 38              | Grade: DD             
+19       | Tanish_Patel_303               | Subject: Electronics                             |  Score: 28              | Grade: DD             
+20       | Advait_Pandey_315              | Subject: Electronics                             |  Score: 18              | Grade: DD             
+-----------------------------------
+CLASS AVERAGE: 69.800

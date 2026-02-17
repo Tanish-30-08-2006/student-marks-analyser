@@ -1,0 +1,22 @@
+1        | Kiara_Shah_310                 | Subject: Geography                               |  Score: 98              | Grade: AA             
+2        | Vihaan_Roy_313                 | Subject: Geography                               |  Score: 95              | Grade: AA             
+3        | Zain_Siddiqui_302              | Subject: Geography                               |  Score: 95              | Grade: AA             
+4        | Riya_Deshmukh_316              | Subject: Geography                               |  Score: 95              | Grade: AA             
+5        | Kabir_Mehta_305                | Subject: Geography                               |  Score: 92              | Grade: AA             
+6        | Aryan_Kulkarni_301             | Subject: Geography                               |  Score: 92              | Grade: AA             
+7        | Varun_Verma_319                | Subject: Geography                               |  Score: 90              | Grade: AA             
+8        | Anaya_Reddy_306                | Subject: Geography                               |  Score: 88              | Grade: AB             
+9        | Sara_Khan_320                  | Subject: Geography                               |  Score: 85              | Grade: AB             
+10       | Ishani_Gupta_318               | Subject: Geography                               |  Score: 82              | Grade: AB             
+11       | Isha_Malhotra_304              | Subject: Geography                               |  Score: 78              | Grade: BB             
+12       | Mehak_Gill_312                 | Subject: Geography                               |  Score: 78              | Grade: BB             
+13       | Sanya_Malik_308                | Subject: Geography                               |  Score: 72              | Grade: BB             
+14       | Priya_Nair_314                 | Subject: Geography                               |  Score: 68              | Grade: BC             
+15       | Rishi_Iyer_307                 | Subject: Geography                               |  Score: 58              | Grade: CC             
+16       | Samrat_Singh_317               | Subject: Geography                               |  Score: 48              | Grade: CD             
+17       | Dev_Chopra_311                 | Subject: Geography                               |  Score: 42              | Grade: CD             
+18       | Arnav_Bose_309                 | Subject: Geography                               |  Score: 35              | Grade: DD             
+19       | Tanish_Patel_303               | Subject: Geography                               |  Score: 25              | Grade: DD             
+20       | Advait_Pandey_315              | Subject: Geography                               |  Score: 20              | Grade: DD             
+-----------------------------------
+CLASS AVERAGE: 71.800

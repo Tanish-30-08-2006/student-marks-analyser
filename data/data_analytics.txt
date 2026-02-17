@@ -1,24 +1,29 @@
 =========================================
         CLASS ANALYTICS SUMMARY
 =========================================
-Total Students: 10
-Overall Topper: Sneha (467 Marks)
-Hardest Subject: Physics (Avg: 68.10)
-Easiest Subject: Computer (Avg: 78.20)
+Total Students: 20
+Overall Topper: Kiara_Shah_310,  (957 Marks)
+Hardest Subject: Electronics (Avg: 69.80)
+Easiest Subject: Physics (Avg: 72.05)
 -----------------------------------------
 SUBJECT-WISE DETAIL:
-Subject: Maths        | Passed: 9   | Fail: 1   | Pass Rate:  90.00%
-Subject: Physics      | Passed: 8   | Fail: 2   | Pass Rate:  80.00%
-Subject: Chemistry    | Passed: 9   | Fail: 1   | Pass Rate:  90.00%
-Subject: English      | Passed: 9   | Fail: 1   | Pass Rate:  90.00%
-Subject: Computer     | Passed: 10  | Fail: 0   | Pass Rate: 100.00%
+Subject: Mathematics                    | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Physics                        | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Chemistry                      | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Biology                        | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Computing                      | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: History                        | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Geography                      | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: English                        | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Economics                      | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
+Subject: Electronics                    | Passed: 17    | Fail: 3     | Pass Rate:  85.00%
 
 -----------------------------------------
 OVERALL GRADE DISTRIBUTION:
-Grade AA: 2 students
+Grade AA: 6 students
 Grade AB: 4 students
-Grade BB: 0 students
+Grade BB: 3 students
 Grade BC: 1 students
 Grade CC: 1 students
-Grade CD: 1 students
-Grade DD: 1 students
+Grade CD: 2 students
+Grade DD: 3 students

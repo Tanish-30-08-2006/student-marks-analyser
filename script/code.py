@@ -1,4 +1,6 @@
 import os
+import matplotlib.pyplot as plt
+
 
 base_dir = os.path.dirname(__file__)
 
@@ -14,6 +16,7 @@ subject_average_path = os.path.join(base_dir,"..","data","subject_averages_.txt"
 analytics_path = os.path.join(base_dir,"..","data","data_analytics.txt")
 grade_analytics_path = os.path.join(base_dir, "..", "data","grade_analytics.txt")
 subject_analytics_path = os.path.join(base_dir, "..", "data","subject_analytics.txt")
+chart_image_path = os.path.join(base_dir,"..","data","grade_visual_chart.png")
 
 lines=[]
 subjects=[]
@@ -33,6 +36,24 @@ max_subject_difficulty=""
 min_subject_difficulty=""
 grade_counts = {"AA": 0, "AB": 0, "BB": 0, "BC": 0, "CC": 0, "CD": 0, "DD": 0}  
 
+def generate_grade_chart(grade_counts, chart_image_path):
+    
+    x_label = list(grade_counts.keys())
+    y_label = list(grade_counts.values())
+
+    plt.figure(figsize=(6,6))
+
+    plt.bar(x_label , y_label , color = "skyblue" , edgecolor = "salmon",alpha =0.4)
+
+    plt.xlabel("Grade", fontsize =10)
+    plt.ylabel("Grade count" , fontsize = 10)
+    plt.title("Grade Distribution",fontsize =12)
+
+    plt.savefig(chart_image_path)
+    plt.show()
+    plt.close()
+
+
 def get_grade(avg):
     if avg>=90:
         return "AA"
@@ -48,6 +69,7 @@ def get_grade(avg):
         return "CD"
     else:
         return "DD"
+
 
 
 with open(student_path,"r") as s:
@@ -66,6 +88,20 @@ for currline in lines:
     name = parts[0]
     attendance = int(parts[1])
     scoreslist = list(map(int , parts[2:]))
+
+    
+    # DATA VALIDATION CONSTRAINTS
+    is_valid = True
+    for score in scoreslist:
+        if score < 0 or score > 100:
+            print(f"Warning: Skipping {name} due to invalid score ({score}). Marks must be 0-100.")
+            is_valid = False
+            break
+    
+    # If any score was invalid, we skip this student entirely
+    if is_valid == False:
+        continue
+
     
     totalsubject = len(scoreslist)
     totalmarks = sum(scoreslist)
@@ -81,10 +117,10 @@ for currline in lines:
     else:
         status="PASS"
     
-    results_summary.append(f"{name:<12}| Avg: {avg:<8.2f} | Grade: {grade:<8} | Attendance: {attendance:<8}% | Status: {status}\n")
+    results_summary.append(f"{name:<30}| Avg: {avg:<15.2f} | Grade: {grade:<15} | Attendance: {attendance:<15}% | Status: {status}\n")
 
     if status=="PASS":
-        passed_students.append(f"{name:<12}| Status: {status}\n")
+        passed_students.append(f"{name:<30}| Status: {status}\n")
     else:
 
         if avg<40 and attendance<75 :
@@ -93,7 +129,7 @@ for currline in lines:
             reason = "Low Attendance"
         elif avg<40:
             reason = "Low Average"
-        failed_students.append(f"{name:<12}| Status: {status:<8} | Reason of Failure:   {reason}\n")
+        failed_students.append(f"{name:<30}| Status: {status:<15} | Reason of Failure:   {reason}\n")
     
     rank_data.append(
         {
@@ -109,6 +145,18 @@ for currline in lines:
 #CREATE RANK LIST..
 rank_data.sort(key=lambda x: x["totalmarks"],reverse=True)
 
+# FOR OVERALL TOPPER AND MULTIPLE OVERALL TOPPERS IN DATA ANALYTICS.TXT'...
+max_total = rank_data[0]["totalmarks"]
+
+topper_names = "" #empty string for topper names (will add the names in string)
+
+for student in rank_data:
+    if student["totalmarks"] == max_total :
+        topper_names = topper_names + student["name"] + ", " 
+        # Now topper_names contains all  like "overall toppers like "Rahul Priya "
+        # Added ", " space and comma for readability no rocket science to confuse
+
+
 rank_number=1
 for student in rank_data:
     
@@ -117,7 +165,7 @@ for student in rank_data:
     totalmarks = student["totalmarks"]
     avg = student["avg"]
     grade = student["grade"]    
-    line = f"{rank_number:8} | {name:<12} | Total_Marks: {totalmarks:<8} | Avg: {avg:<8} | Grade: {grade:<8}\n"
+    line = f"{rank_number:8} | {name:<30} | Total_Marks: {totalmarks:<15} | Avg: {avg:<15} | Grade: {grade:<8}\n"
     rank_list_output.append(line)
     rank_number=rank_number+1
     
@@ -137,11 +185,9 @@ for i in range(len(subjects)):
     sub_pass_count = 0 #needed for analytics
     
     
-    #TOPPER [AFTER REVERSE SORTING RANK[0] IS TOPPER FOR THAT SUBJECT]
-    top_student = rank_data[0] 
-    top_name = top_student["name"]
-    top_score = top_student["scores"][i]
-    subject_toppers.append(f"Subject: {sub_name:<12} | Topper: {top_name:<12} | Score: {top_score}\n")
+    
+    # STORE MAX SCORE TO APPEND MULTIPLE TOPPERS WITH SAME MARKS..
+    max_score = rank_data[0]["scores"][i]
 
     
     #AFTER SORTING VIA scores[i] i.e i+1th subject we create subject wise rank list and subject wise failed students rank list
@@ -150,11 +196,17 @@ for i in range(len(subjects)):
 
         s_name = student["name"]
         s_score = student["scores"][i]
+
+        #MULTIPLE TOPPER LOGIC
+        if s_score == max_score:
+            subject_toppers.append(f"Subject: {sub_name:<30} | Topper: {s_name:<30} | Score: {s_score}\n")
+
+
         s_grade = get_grade(s_score)
-        line = f"{rank_number:<8} | {s_name:<12} | Subject: {sub_name:<12} |  Score: {s_score:<8} | Grade: {s_grade:<8}\n"
+        line = f"{rank_number:<8} | {s_name:<30} | Subject: {sub_name:<39} |  Score: {s_score:<15} | Grade: {s_grade:<15}\n"
         sub_data_output.append(line)
         rank_number=rank_number+1
-
+        
         total_sub_score = total_sub_score + s_score
 
         
@@ -163,13 +215,13 @@ for i in range(len(subjects)):
 
         #ADDING FAILED STUDENTS IN SUB_FAILED_OUTPUT
         if s_score<40 :
-            line = f"{s_name:<12} | Subject : {sub_name:12} | Grade : {s_grade:<8} | Status : FAIL\n"
+            line = f"{s_name:<30} | Subject : {sub_name:30} | Grade : {s_grade:<15} | Status : FAIL\n"
             sub_failed_output.append(line)
 
    
     # CALCULATE SUBJECT AVERAGE BEFORE ITERATING TO NEXT SUBJECT AND ADDING IT TO SUBJECT_AVERAGE_OUTPUT
     sub_avg = (total_sub_score)/len(rank_data)
-    line=f"Subject: {sub_name:<12} | Average: {sub_avg:.3f}\n"
+    line=f"Subject: {sub_name:<30} | Average: {sub_avg:.3f}\n"
     subject_average_output.append(line)
 
 
@@ -185,7 +237,7 @@ for i in range(len(subjects)):
     
     #APPEND PASSED , FAILED COUNT AND PASS RATE FOR EACH SUB IN ANALYTICS_OUTPUT LIST
     pass_rate = ((sub_pass_count)/len(rank_data))*100
-    analytics_line = f"Subject: {sub_name:<12} | Passed: {sub_pass_count:<3} | Fail: {len(rank_data)-sub_pass_count:<3} | Pass Rate: {pass_rate:>6.2f}%\n"
+    analytics_line = f"Subject: {sub_name:<30} | Passed: {sub_pass_count:<5} | Fail: {len(rank_data)-sub_pass_count:<5} | Pass Rate: {pass_rate:>6.2f}%\n"
     subject_analytics_output.append(analytics_line)
 
 
@@ -209,13 +261,12 @@ for i in range(len(subjects)):
 # FINAL ANALYTICS = SUBJECT WISE ANALYTICS(COUNT OF PASS,FAIL , PASSRATE) +
 #  OVERALL ANALYTICS(OVERALL PASS FAIL COUNT AND PASS RATE) +
 #  grade analytics
-overall_topper = rank_data[0]
 overall_analytics = [
     "=========================================\n",
     "        CLASS ANALYTICS SUMMARY\n",
     "=========================================\n",
     f"Total Students: {len(rank_data)}\n",
-    f"Overall Topper: {overall_topper['name']} ({overall_topper['totalmarks']} Marks)\n",
+    f"Overall Topper: {topper_names} ({max_total} Marks)\n",
     f"Hardest Subject: {max_subject_difficulty} (Avg: {min_avg:.2f})\n",
     f"Easiest Subject: {min_subject_difficulty} (Avg: {max_avg:.2f})\n",
     "-----------------------------------------\n",
@@ -258,6 +309,10 @@ with open (subject_analytics_path,"w") as sub_a:
 
 with open (grade_analytics_path,"w") as g:
     g.writelines(grade_dist_lines)
+
+
+# FUNCTION CALLING OF VISUAL CHART 
+generate_grade_chart(grade_counts , chart_image_path)
 
 
 #STUDENT SEARCH FUNCTION

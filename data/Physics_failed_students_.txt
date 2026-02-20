@@ -1,3 +1,6 @@
-Arnav_Bose_309                 | Subject : Physics                        | Grade : DD              | Status : FAIL
-Tanish_Patel_303               | Subject : Physics                        | Grade : DD              | Status : FAIL
-Advait_Pandey_315              | Subject : Physics                        | Grade : DD              | Status : FAIL
+Neha_Mehta                     | Subject : Physics                        | Grade : DD              | Status : FAIL
+Meera_Chopra                   | Subject : Physics                        | Grade : DD              | Status : FAIL
+Tanya_Bose                     | Subject : Physics                        | Grade : DD              | Status : FAIL
+Arjun_Patel                    | Subject : Physics                        | Grade : DD              | Status : FAIL
+Yash_Gupta                     | Subject : Physics                        | Grade : DD              | Status : FAIL
+Amit_Khanna                    | Subject : Physics                        | Grade : DD              | Status : FAIL

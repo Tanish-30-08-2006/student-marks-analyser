@@ -1,22 +1,22 @@
-1        | Zain_Siddiqui_302              | Subject: Physics                                 |  Score: 98              | Grade: AA             
-2        | Riya_Deshmukh_316              | Subject: Physics                                 |  Score: 98              | Grade: AA             
-3        | Vihaan_Roy_313                 | Subject: Physics                                 |  Score: 95              | Grade: AA             
-4        | Kiara_Shah_310                 | Subject: Physics                                 |  Score: 94              | Grade: AA             
-5        | Aryan_Kulkarni_301             | Subject: Physics                                 |  Score: 92              | Grade: AA             
-6        | Kabir_Mehta_305                | Subject: Physics                                 |  Score: 90              | Grade: AA             
-7        | Varun_Verma_319                | Subject: Physics                                 |  Score: 90              | Grade: AA             
-8        | Anaya_Reddy_306                | Subject: Physics                                 |  Score: 88              | Grade: AB             
-9        | Sara_Khan_320                  | Subject: Physics                                 |  Score: 85              | Grade: AB             
-10       | Ishani_Gupta_318               | Subject: Physics                                 |  Score: 82              | Grade: AB             
-11       | Isha_Malhotra_304              | Subject: Physics                                 |  Score: 78              | Grade: BB             
-12       | Mehak_Gill_312                 | Subject: Physics                                 |  Score: 78              | Grade: BB             
-13       | Sanya_Malik_308                | Subject: Physics                                 |  Score: 72              | Grade: BB             
-14       | Priya_Nair_314                 | Subject: Physics                                 |  Score: 68              | Grade: BC             
-15       | Rishi_Iyer_307                 | Subject: Physics                                 |  Score: 58              | Grade: CC             
-16       | Samrat_Singh_317               | Subject: Physics                                 |  Score: 48              | Grade: CD             
-17       | Dev_Chopra_311                 | Subject: Physics                                 |  Score: 42              | Grade: CD             
-18       | Arnav_Bose_309                 | Subject: Physics                                 |  Score: 35              | Grade: DD             
-19       | Tanish_Patel_303               | Subject: Physics                                 |  Score: 30              | Grade: DD             
-20       | Advait_Pandey_315              | Subject: Physics                                 |  Score: 20              | Grade: DD             
+1        | Aarav_Sharma                   | Subject: Physics                                 |  Score: 97              | Grade: AA             
+2        | Priya_Iyer                     | Subject: Physics                                 |  Score: 97              | Grade: AA             
+3        | Vikram_Reddy                   | Subject: Physics                                 |  Score: 97              | Grade: AA             
+4        | Kabir_Malhotra                 | Subject: Physics                                 |  Score: 97              | Grade: AA             
+5        | Kritika_Singh                  | Subject: Physics                                 |  Score: 92              | Grade: AA             
+6        | Ishaan_Verma                   | Subject: Physics                                 |  Score: 92              | Grade: AA             
+7        | Zoya_Hashmi                    | Subject: Physics                                 |  Score: 90              | Grade: AA             
+8        | Sneha_Kapoor                   | Subject: Physics                                 |  Score: 88              | Grade: AB             
+9        | Divya_Sarin                    | Subject: Physics                                 |  Score: 85              | Grade: AB             
+10       | Rahul_Deshmukh                 | Subject: Physics                                 |  Score: 62              | Grade: BC             
+11       | Aditya_Sen                     | Subject: Physics                                 |  Score: 58              | Grade: CC             
+12       | Siddharth_Joshi                | Subject: Physics                                 |  Score: 46              | Grade: CD             
+13       | Ananya_Nair                    | Subject: Physics                                 |  Score: 42              | Grade: CD             
+14       | Rohan_Bansal                   | Subject: Physics                                 |  Score: 41              | Grade: CD             
+15       | Neha_Mehta                     | Subject: Physics                                 |  Score: 39              | Grade: DD             
+16       | Meera_Chopra                   | Subject: Physics                                 |  Score: 38              | Grade: DD             
+17       | Tanya_Bose                     | Subject: Physics                                 |  Score: 37              | Grade: DD             
+18       | Arjun_Patel                    | Subject: Physics                                 |  Score: 34              | Grade: DD             
+19       | Yash_Gupta                     | Subject: Physics                                 |  Score: 32              | Grade: DD             
+20       | Amit_Khanna                    | Subject: Physics                                 |  Score: 32              | Grade: DD             
 -----------------------------------
-CLASS AVERAGE: 72.050
+CLASS AVERAGE: 64.800

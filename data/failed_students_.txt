@@ -1,10 +1,7 @@
-Zain_Siddiqui_302             | Status: FAIL            | Reason of Failure:   Low Attendance
-Tanish_Patel_303              | Status: FAIL            | Reason of Failure:   Low Average
-Isha_Malhotra_304             | Status: FAIL            | Reason of Failure:   Low Attendance
-Anaya_Reddy_306               | Status: FAIL            | Reason of Failure:   Low Attendance
-Rishi_Iyer_307                | Status: FAIL            | Reason of Failure:   Low Attendance
-Arnav_Bose_309                | Status: FAIL            | Reason of Failure:   Low Average and Low Attendance
-Vihaan_Roy_313                | Status: FAIL            | Reason of Failure:   Low Attendance
-Advait_Pandey_315             | Status: FAIL            | Reason of Failure:   Low Average and Low Attendance
-Samrat_Singh_317              | Status: FAIL            | Reason of Failure:   Low Attendance
-Varun_Verma_319               | Status: FAIL            | Reason of Failure:   Low Attendance
+Ishaan_Verma                  | Status: FAIL            | Reason of Failure:   Low Attendance
+Arjun_Patel                   | Status: FAIL            | Reason of Failure:   Low Average
+Zoya_Hashmi                   | Status: FAIL            | Reason of Failure:   Low Attendance
+Tanya_Bose                    | Status: FAIL            | Reason of Failure:   Low Average
+Amit_Khanna                   | Status: FAIL            | Reason of Failure:   Low Average and Low Attendance
+Neha_Mehta                    | Status: FAIL            | Reason of Failure:   Low Average
+Rohan_Bansal                  | Status: FAIL            | Reason of Failure:   Low Attendance

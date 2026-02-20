@@ -1,22 +1,22 @@
-1        | Kiara_Shah_310                 | Subject: Chemistry                               |  Score: 99              | Grade: AA             
-2        | Kabir_Mehta_305                | Subject: Chemistry                               |  Score: 94              | Grade: AA             
-3        | Varun_Verma_319                | Subject: Chemistry                               |  Score: 94              | Grade: AA             
-4        | Zain_Siddiqui_302              | Subject: Chemistry                               |  Score: 92              | Grade: AA             
-5        | Riya_Deshmukh_316              | Subject: Chemistry                               |  Score: 92              | Grade: AA             
-6        | Vihaan_Roy_313                 | Subject: Chemistry                               |  Score: 90              | Grade: AA             
-7        | Ishani_Gupta_318               | Subject: Chemistry                               |  Score: 88              | Grade: AB             
-8        | Aryan_Kulkarni_301             | Subject: Chemistry                               |  Score: 85              | Grade: AB             
-9        | Anaya_Reddy_306                | Subject: Chemistry                               |  Score: 82              | Grade: AB             
-10       | Sara_Khan_320                  | Subject: Chemistry                               |  Score: 80              | Grade: AB             
-11       | Sanya_Malik_308                | Subject: Chemistry                               |  Score: 78              | Grade: BB             
-12       | Isha_Malhotra_304              | Subject: Chemistry                               |  Score: 72              | Grade: BB             
-13       | Mehak_Gill_312                 | Subject: Chemistry                               |  Score: 72              | Grade: BB             
-14       | Priya_Nair_314                 | Subject: Chemistry                               |  Score: 62              | Grade: BC             
-15       | Rishi_Iyer_307                 | Subject: Chemistry                               |  Score: 52              | Grade: CC             
-16       | Dev_Chopra_311                 | Subject: Chemistry                               |  Score: 48              | Grade: CD             
-17       | Samrat_Singh_317               | Subject: Chemistry                               |  Score: 42              | Grade: CD             
-18       | Arnav_Bose_309                 | Subject: Chemistry                               |  Score: 28              | Grade: DD             
-19       | Advait_Pandey_315              | Subject: Chemistry                               |  Score: 28              | Grade: DD             
-20       | Tanish_Patel_303               | Subject: Chemistry                               |  Score: 22              | Grade: DD             
+1        | Aarav_Sharma                   | Subject: Chemistry                               |  Score: 99              | Grade: AA             
+2        | Priya_Iyer                     | Subject: Chemistry                               |  Score: 99              | Grade: AA             
+3        | Vikram_Reddy                   | Subject: Chemistry                               |  Score: 99              | Grade: AA             
+4        | Meera_Chopra                   | Subject: Chemistry                               |  Score: 98              | Grade: AA             
+5        | Zoya_Hashmi                    | Subject: Chemistry                               |  Score: 94              | Grade: AA             
+6        | Yash_Gupta                     | Subject: Chemistry                               |  Score: 92              | Grade: AA             
+7        | Ishaan_Verma                   | Subject: Chemistry                               |  Score: 90              | Grade: AA             
+8        | Kritika_Singh                  | Subject: Chemistry                               |  Score: 86              | Grade: AB             
+9        | Aditya_Sen                     | Subject: Chemistry                               |  Score: 64              | Grade: BC             
+10       | Rahul_Deshmukh                 | Subject: Chemistry                               |  Score: 61              | Grade: BC             
+11       | Siddharth_Joshi                | Subject: Chemistry                               |  Score: 45              | Grade: CD             
+12       | Ananya_Nair                    | Subject: Chemistry                               |  Score: 45              | Grade: CD             
+13       | Rohan_Bansal                   | Subject: Chemistry                               |  Score: 41              | Grade: CD             
+14       | Sneha_Kapoor                   | Subject: Chemistry                               |  Score: 40              | Grade: CD             
+15       | Kabir_Malhotra                 | Subject: Chemistry                               |  Score: 39              | Grade: DD             
+16       | Neha_Mehta                     | Subject: Chemistry                               |  Score: 39              | Grade: DD             
+17       | Tanya_Bose                     | Subject: Chemistry                               |  Score: 38              | Grade: DD             
+18       | Amit_Khanna                    | Subject: Chemistry                               |  Score: 38              | Grade: DD             
+19       | Arjun_Patel                    | Subject: Chemistry                               |  Score: 36              | Grade: DD             
+20       | Divya_Sarin                    | Subject: Chemistry                               |  Score: 35              | Grade: DD             
 -----------------------------------
-CLASS AVERAGE: 70.000
+CLASS AVERAGE: 63.900

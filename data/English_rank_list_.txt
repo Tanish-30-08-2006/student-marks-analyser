@@ -1,22 +1,22 @@
-1        | Zain_Siddiqui_302              | Subject: English                                 |  Score: 98              | Grade: AA             
-2        | Riya_Deshmukh_316              | Subject: English                                 |  Score: 98              | Grade: AA             
-3        | Kiara_Shah_310                 | Subject: English                                 |  Score: 94              | Grade: AA             
-4        | Varun_Verma_319                | Subject: English                                 |  Score: 94              | Grade: AA             
-5        | Vihaan_Roy_313                 | Subject: English                                 |  Score: 90              | Grade: AA             
-6        | Kabir_Mehta_305                | Subject: English                                 |  Score: 90              | Grade: AA             
-7        | Ishani_Gupta_318               | Subject: English                                 |  Score: 88              | Grade: AB             
-8        | Aryan_Kulkarni_301             | Subject: English                                 |  Score: 85              | Grade: AB             
-9        | Anaya_Reddy_306                | Subject: English                                 |  Score: 82              | Grade: AB             
-10       | Sara_Khan_320                  | Subject: English                                 |  Score: 80              | Grade: AB             
-11       | Sanya_Malik_308                | Subject: English                                 |  Score: 78              | Grade: BB             
-12       | Isha_Malhotra_304              | Subject: English                                 |  Score: 72              | Grade: BB             
-13       | Mehak_Gill_312                 | Subject: English                                 |  Score: 72              | Grade: BB             
-14       | Priya_Nair_314                 | Subject: English                                 |  Score: 62              | Grade: BC             
-15       | Rishi_Iyer_307                 | Subject: English                                 |  Score: 52              | Grade: CC             
-16       | Dev_Chopra_311                 | Subject: English                                 |  Score: 48              | Grade: CD             
-17       | Samrat_Singh_317               | Subject: English                                 |  Score: 42              | Grade: CD             
-18       | Tanish_Patel_303               | Subject: English                                 |  Score: 30              | Grade: DD             
-19       | Arnav_Bose_309                 | Subject: English                                 |  Score: 28              | Grade: DD             
-20       | Advait_Pandey_315              | Subject: English                                 |  Score: 28              | Grade: DD             
+1        | Aarav_Sharma                   | Subject: English                                 |  Score: 96              | Grade: AA             
+2        | Priya_Iyer                     | Subject: English                                 |  Score: 96              | Grade: AA             
+3        | Vikram_Reddy                   | Subject: English                                 |  Score: 96              | Grade: AA             
+4        | Kabir_Malhotra                 | Subject: English                                 |  Score: 95              | Grade: AA             
+5        | Ishaan_Verma                   | Subject: English                                 |  Score: 93              | Grade: AA             
+6        | Zoya_Hashmi                    | Subject: English                                 |  Score: 93              | Grade: AA             
+7        | Yash_Gupta                     | Subject: English                                 |  Score: 90              | Grade: AA             
+8        | Aditya_Sen                     | Subject: English                                 |  Score: 76              | Grade: BB             
+9        | Kritika_Singh                  | Subject: English                                 |  Score: 74              | Grade: BB             
+10       | Rahul_Deshmukh                 | Subject: English                                 |  Score: 59              | Grade: CC             
+11       | Divya_Sarin                    | Subject: English                                 |  Score: 58              | Grade: CC             
+12       | Sneha_Kapoor                   | Subject: English                                 |  Score: 45              | Grade: CD             
+13       | Siddharth_Joshi                | Subject: English                                 |  Score: 44              | Grade: CD             
+14       | Rohan_Bansal                   | Subject: English                                 |  Score: 41              | Grade: CD             
+15       | Ananya_Nair                    | Subject: English                                 |  Score: 40              | Grade: CD             
+16       | Meera_Chopra                   | Subject: English                                 |  Score: 39              | Grade: DD             
+17       | Neha_Mehta                     | Subject: English                                 |  Score: 39              | Grade: DD             
+18       | Tanya_Bose                     | Subject: English                                 |  Score: 39              | Grade: DD             
+19       | Arjun_Patel                    | Subject: English                                 |  Score: 38              | Grade: DD             
+20       | Amit_Khanna                    | Subject: English                                 |  Score: 36              | Grade: DD             
 -----------------------------------
-CLASS AVERAGE: 70.550
+CLASS AVERAGE: 64.350

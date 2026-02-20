@@ -1,10 +1,5 @@
-Subject: Mathematics                    | Average: 70.550
-Subject: Physics                        | Average: 72.050
-Subject: Chemistry                      | Average: 70.000
-Subject: Biology                        | Average: 70.300
-Subject: Computing                      | Average: 71.050
-Subject: History                        | Average: 70.150
-Subject: Geography                      | Average: 71.800
-Subject: English                        | Average: 70.550
-Subject: Economics                      | Average: 70.850
-Subject: Electronics                    | Average: 69.800
+Subject: Mathematics                    | Average: 64.500
+Subject: Physics                        | Average: 64.800
+Subject: Chemistry                      | Average: 63.900
+Subject: Programming                    | Average: 66.050
+Subject: English                        | Average: 64.350

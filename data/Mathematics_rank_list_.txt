@@ -1,22 +1,22 @@
-1        | Kiara_Shah_310                 | Subject: Mathematics                             |  Score: 98              | Grade: AA             
-2        | Zain_Siddiqui_302              | Subject: Mathematics                             |  Score: 95              | Grade: AA             
-3        | Riya_Deshmukh_316              | Subject: Mathematics                             |  Score: 95              | Grade: AA             
-4        | Kabir_Mehta_305                | Subject: Mathematics                             |  Score: 92              | Grade: AA             
-5        | Vihaan_Roy_313                 | Subject: Mathematics                             |  Score: 92              | Grade: AA             
-6        | Varun_Verma_319                | Subject: Mathematics                             |  Score: 92              | Grade: AA             
-7        | Aryan_Kulkarni_301             | Subject: Mathematics                             |  Score: 88              | Grade: AB             
-8        | Anaya_Reddy_306                | Subject: Mathematics                             |  Score: 85              | Grade: AB             
-9        | Ishani_Gupta_318               | Subject: Mathematics                             |  Score: 85              | Grade: AB             
-10       | Sara_Khan_320                  | Subject: Mathematics                             |  Score: 82              | Grade: AB             
-11       | Isha_Malhotra_304              | Subject: Mathematics                             |  Score: 75              | Grade: BB             
-12       | Mehak_Gill_312                 | Subject: Mathematics                             |  Score: 75              | Grade: BB             
-13       | Sanya_Malik_308                | Subject: Mathematics                             |  Score: 75              | Grade: BB             
-14       | Priya_Nair_314                 | Subject: Mathematics                             |  Score: 65              | Grade: BC             
-15       | Rishi_Iyer_307                 | Subject: Mathematics                             |  Score: 55              | Grade: CC             
-16       | Dev_Chopra_311                 | Subject: Mathematics                             |  Score: 45              | Grade: CD             
-17       | Samrat_Singh_317               | Subject: Mathematics                             |  Score: 45              | Grade: CD             
-18       | Tanish_Patel_303               | Subject: Mathematics                             |  Score: 25              | Grade: DD             
-19       | Advait_Pandey_315              | Subject: Mathematics                             |  Score: 25              | Grade: DD             
-20       | Arnav_Bose_309                 | Subject: Mathematics                             |  Score: 22              | Grade: DD             
+1        | Aarav_Sharma                   | Subject: Mathematics                             |  Score: 98              | Grade: AA             
+2        | Priya_Iyer                     | Subject: Mathematics                             |  Score: 98              | Grade: AA             
+3        | Vikram_Reddy                   | Subject: Mathematics                             |  Score: 98              | Grade: AA             
+4        | Ananya_Nair                    | Subject: Mathematics                             |  Score: 98              | Grade: AA             
+5        | Kritika_Singh                  | Subject: Mathematics                             |  Score: 96              | Grade: AA             
+6        | Yash_Gupta                     | Subject: Mathematics                             |  Score: 95              | Grade: AA             
+7        | Ishaan_Verma                   | Subject: Mathematics                             |  Score: 94              | Grade: AA             
+8        | Zoya_Hashmi                    | Subject: Mathematics                             |  Score: 92              | Grade: AA             
+9        | Rahul_Deshmukh                 | Subject: Mathematics                             |  Score: 60              | Grade: BC             
+10       | Aditya_Sen                     | Subject: Mathematics                             |  Score: 52              | Grade: CC             
+11       | Divya_Sarin                    | Subject: Mathematics                             |  Score: 48              | Grade: CD             
+12       | Siddharth_Joshi                | Subject: Mathematics                             |  Score: 48              | Grade: CD             
+13       | Kabir_Malhotra                 | Subject: Mathematics                             |  Score: 42              | Grade: CD             
+14       | Sneha_Kapoor                   | Subject: Mathematics                             |  Score: 42              | Grade: CD             
+15       | Rohan_Bansal                   | Subject: Mathematics                             |  Score: 41              | Grade: CD             
+16       | Meera_Chopra                   | Subject: Mathematics                             |  Score: 40              | Grade: CD             
+17       | Neha_Mehta                     | Subject: Mathematics                             |  Score: 39              | Grade: DD             
+18       | Tanya_Bose                     | Subject: Mathematics                             |  Score: 39              | Grade: DD             
+19       | Arjun_Patel                    | Subject: Mathematics                             |  Score: 35              | Grade: DD             
+20       | Amit_Khanna                    | Subject: Mathematics                             |  Score: 35              | Grade: DD             
 -----------------------------------
-CLASS AVERAGE: 70.550
+CLASS AVERAGE: 64.500

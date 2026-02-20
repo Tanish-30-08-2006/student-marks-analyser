@@ -1,3 +1,0 @@
-Arnav_Bose_309                 | Subject : Economics                      | Grade : DD              | Status : FAIL
-Tanish_Patel_303               | Subject : Economics                      | Grade : DD              | Status : FAIL
-Advait_Pandey_315              | Subject : Economics                      | Grade : DD              | Status : FAIL

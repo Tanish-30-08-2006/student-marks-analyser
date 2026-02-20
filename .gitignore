@@ -1,0 +1,12 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Output data (Ignored to keep repo clean, user generates their own)
+data/student_report_cards/
+data/student_pdf_reports/
+data/certificates_pdf/
+data/*.png
+data/*.txt
+!data/students.txt
+!data/subjects.txt
